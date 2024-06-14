@@ -69,7 +69,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-bottom: 40px; /* Espacio adicional para separar el footer */
+    margin-bottom: 40px; 
 }
 
 
@@ -177,7 +177,7 @@ footer {
     }
     .projects {
         padding: 0 10px;
-        margin-bottom: 20px; /* Espacio adicional para separar el footer */
+        margin-bottom: 20px; 
     }
     .card {
         display: flex;
@@ -219,6 +219,5 @@ footer {
     }
     .projects {
         padding: 0 10px;
-        margin-bottom: 20px; /* Espacio adicional para separar el footer */
-    }
+        margin-bottom: 20px; 
 }
